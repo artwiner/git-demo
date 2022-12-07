@@ -3,6 +3,10 @@ are you?
 I'm fine 
 and you ?
 bbfgbbffgbgbf
+<<<<<<< HEAD
 vvv
 so allll it delet
 -----------------------------
+=======
+vvv
+>>>>>>> fcaa47bc83dd810fd8868aea9a635d28b214674e
